@@ -1,4 +1,4 @@
-# Estilização de págins HTML
+# Estilização de páginas HTML
 
 ## Contexto
 
